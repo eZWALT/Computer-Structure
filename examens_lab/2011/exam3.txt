@@ -1,0 +1,5 @@
+#correspondencia directa
+#escritura immediata amb assignacio (Si hi ha miss de escritura )
+#16 bytes de offset (4 words)
+#4 blocs (2 bits de linia calen)
+
